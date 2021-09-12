@@ -1,4 +1,4 @@
-The project is the game Snake that are usually included in flip phones.
+The project is a Java program to sum values of an array.
 
 This project requires that you know how to use the for loop and the array. I recommend you go into 1 programming college class or learn the basics to understand the project.
 
